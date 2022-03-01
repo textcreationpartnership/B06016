@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A supplement, to the last will and testament of Anthony Earl of Shaftsbury; with his last words, as they were taken in Holland, where he died, January the 20th, 1682.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06016</idno>
+            <idno type="OCLC"> 12295995</idno>
+            <idno type="STC">Wing S6187</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[204]</idno>
+            <idno type="STC">ESTC R21155</idno>
+            <idno type="EEBO-CITATION">99883814</idno>
+            <idno type="PROQUEST">ocm99883814</idno>
+            <idno type="VID">182873</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06016)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182873)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[205])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A supplement, to the last will and testament of Anthony Earl of Shaftsbury; with his last words, as they were taken in Holland, where he died, January the 20th, 1682.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Smith.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>In verse.</note>
+                  <note>A Tory satire.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683 --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:182873:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>A Supplement, TO THE <hi>Laſt Will and Teſtament</hi> OF ANTHONY EARL of <hi>SHAFTSBURY;</hi> With his laſt Words, as they were taken in <hi>Holland,</hi> where he Died, <date>
+                  <hi>January</hi> the 20th, 1682.</date>
+            </head>
+            <lg>
+               <l>MOurn! <hi>England,</hi> Mourn! let not thy Griefs be feign'd,</l>
+               <l>The <hi>Tap</hi> ſo long upon the Lees is Drain'd.</l>
+               <l>The Cringing <hi>Pillar</hi> of the <hi>State</hi> and <hi>Church</hi>
+               </l>
+               <l>Is fall'n, and left his Profelites ith' Lurch.</l>
+               <l>Alas! what will become oth' <hi>Reformation?</hi>
+               </l>
+               <l>The <hi>Popiſh Plot,</hi> and black <hi>Aſſociation?</hi>
+               </l>
+               <l>Our <hi>Rights</hi> and <hi>Liberties,</hi> and <hi>Good Old Cauſe?</hi>
+               </l>
+               <l>Patch'd <hi>Juries,</hi> and the <hi>Ignoramus</hi> Laws?</l>
+               <l>What will become oth' <hi>Saints</hi> in <hi>Tribulation?</hi>
+               </l>
+               <l>If <hi>Tory</hi>-Loyalty comes into Faſhion.</l>
+               <l>The <hi>Salamanca</hi> Doctor muſt take Poſt,</l>
+               <l>If <hi>Thompſon,</hi> and <hi>Leſtrange</hi> muſt Rule the Roſt.</l>
+               <l>And Monkey <hi>Care, Gotham,</hi> and <hi>Snivelling Dick,</hi>
+               </l>
+               <l>Muſt from the <hi>Hague,</hi> ev'n follow, to Old-Nick.</l>
+            </lg>
+            <lg>
+               <l>In vain we ſtrive to ſhun th' appointed Fate,</l>
+               <l>That on the <hi>Knave,</hi> as well as <hi>Fool,</hi> does wait.</l>
+               <l>Though I (ſaid he) have drawn Infectious Breath,</l>
+               <l>And Liv'd this Eighty Years in ſpight of Death:</l>
+               <l>Had I been Hang'd but Fifty Years agone,</l>
+               <l>Leſs Treaſon had Enſu'd, leſs Miſchief done.</l>
+               <pb n="2" facs="tcp:182873:2"/>
+               <!-- PDF PAGE 17 -->
+               <l>But as there is an Evil Genius waits</l>
+               <l>On private Men, ſo there's in <hi>Publick States.</hi>
+               </l>
+               <l>The Univerſal Tempter of Mankind,</l>
+               <l>That always in the Ditch will lead the Blind,</l>
+               <l>Of Sin and Faction, the allotted Bane,</l>
+               <l>And for that very Cauſe has leave to Reign.</l>
+               <l>Elſe <hi>Belzebub,</hi> long ſince, I'de been thy due,</l>
+               <l>But that he fear'd, I ſhou'd ſupplant him too.</l>
+               <lg>
+                  <l>Thus, like the Devil, I was Born a Curſe</l>
+                  <l>To all Mankind. My Lord and Maſter, worſe</l>
+                  <l>Betray'd, like <hi>Judas,</hi> while I kept the Purſe.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Yet ſtill, in every State, I walk'd Secure,</l>
+               <l>Grave with the King, and Jocun'd with the Whore;</l>
+               <l>And never did one Lucky Miſchief Brew,</l>
+               <l>But Grateful Lawrels ſtill adorn'd my Brow:</l>
+               <l>In every State have ſo Succeſsful Bin,</l>
+               <l>As Fame alone were the Rewards of Sin.</l>
+            </lg>
+            <lg>
+               <l>And all this while, not the Seveareſt Law</l>
+               <l>Cou'd find me Faulty, though they found a Flaw.</l>
+               <l>Still by my <hi>Art,</hi> or <hi>Ignoramus</hi> Friends,</l>
+               <l>I <hi>Guiltleſs</hi> ſeem'd, and ſtill purſu'd my Ends.</l>
+               <l>For what was all this ſpecious Pretence?</l>
+               <l>Of Subjects Rights, and Safety of the Prince?</l>
+               <l>Religion, Liberty, Aſſociation?</l>
+               <l>But to Betray all, and Inſlave the Nation?</l>
+               <l>Which by ſo many Plots I did Inthral,</l>
+               <l>Whilſt the blind Rabble Worſhip'd me as <hi>Baal.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But now the Miſt is Vaniſh'd from their Eyes,</l>
+               <l>They ſee my Crimes through all its thick Diſguiſe;</l>
+               <l>(Though, for the <hi>Saints,</hi> and <hi>Brethren,</hi> I dare ſay,</l>
+               <l>I cou'd have kept in <hi>Ignorance</hi> to this Day,)</l>
+               <l>Once Sons of Light: But now the <hi>Saints</hi> are blind,</l>
+               <l>While <hi>Tories, Janus</hi>-like, have Eyes behind.</l>
+            </lg>
+            <lg>
+               <l>Thus, all my Shams diſcover'd, I poor I,</l>
+               <l>Was forc'd, although my Wings were Clip'd, to Flie;</l>
+               <l>Nay, though no Legs I had, my Gate was Fleet,</l>
+               <l>Oblig'd to Travel, though I had no Feet:</l>
+               <l>From Juſtice (all my Crimes laid at my Door)</l>
+               <l>Found power to run, who cou'd not Crawl before.</l>
+            </lg>
+            <pb n="3" facs="tcp:182873:2"/>
+            <!-- PDF PAGE 17 -->
+            <lg>
+               <l>Old and Decriped, Gouty Toes, Scarr'd Shins,</l>
+               <l>Turn Pilgrim in my Dotage for my Sins.</l>
+               <l>My Strength and Action gone, I mount the Stage,</l>
+               <l>With all the Frailtys that attend on Age,</l>
+               <l>And nothing left me but the conſtant Will,</l>
+               <l>And Natural Inclination to do ill.</l>
+               <l>Glad to ſham off with all my Vanquiſht Hope,</l>
+               <l>To ſave that Neck that wou'd diſgrace a Rope.</l>
+            </lg>
+            <lg>
+               <l>My Hopes are fled, let Death wind up the Charm,</l>
+               <l>Lifes but a Plague when I can do no harm;</l>
+               <l>Your Canting <hi>Words</hi> no longer will prevail,</l>
+               <l>Your <hi>Liberty,</hi> and <hi>Property</hi> is Stale;</l>
+               <l>The <hi>Rights</hi> and <hi>Priviledges</hi> of the Nation,</l>
+               <l>Are but caſt Suits, when <hi>Loyalty</hi>'s in Faſhion.</l>
+               <lg>
+                  <l>Your <hi>Plots</hi> and <hi>Perjuries</hi> will do no more,</l>
+                  <l>Your <hi>Slavery,</hi> and <hi>Arbitrary Pow'r,</hi>
+                  </l>
+                  <l>Are like my Baniſh'd Self thrown out of Door.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>VVhat now remains, but that the <hi>Tap</hi> ſhould Burſt?</l>
+               <l>VVho can do any more, that has done his worſt?</l>
+               <l>That the Proud Foe Rejoyce not in my Fall.</l>
+               <l>Now Heart, break Heart, and Baffle <hi>Catch</hi> and All.</l>
+               <lg>
+                  <l>But e're I Fall a Victim though too late,</l>
+                  <l>In a Vile Nation, to a Viler Fate,</l>
+                  <l>I thus Bequeath the Remnant of my Eſtate.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>My former Will as Fates Decretals ſtands,</l>
+               <l>But ſomething's due unto the <hi>Netherlands;</hi>
+               </l>
+               <l>For their Civilities, ſince here I fled,</l>
+               <l>Foul Linnen, ſtinking Fiſh, and mouldy Bread.</l>
+               <l>To th' <hi>States</hi> becauſe they are a Free-born Nation,</l>
+               <l>I do Bequeath my New Aſſociation,</l>
+               <l>That perfect Model of true <hi>Anarchy,</hi>
+               </l>
+               <l>And Charm againſt all <hi>Monarch Tyranny.</hi>
+               </l>
+               <l>Tho' to live here, (had it ſo pleas'd the Fates,)</l>
+               <l>I had been King, or th' Devil had had the <hi>States.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My Heart with Faction flam'd that Source of Evil,</l>
+               <l>I leave to my Old <hi>Club</hi> that haunts the <hi>Devil.</hi>
+               </l>
+               <l>As Fickle and as Falſe as is your own</l>
+               <l>Sworn Enemy, to all that Sways the Throne.</l>
+            </lg>
+            <pb n="4" facs="tcp:182873:3"/>
+            <!-- PDF PAGE 18 -->
+            <lg>
+               <l>My Lungs (my <hi>Ignoramus</hi> Friends) is yours,</l>
+               <l>But for my Leights, I leave 'em to the <hi>Bores;</hi>
+               </l>
+               <l>To Blow the Bellows of each New <hi>Sedition,</hi>
+               </l>
+               <l>On any Change of <hi>Faction,</hi> or <hi>Religion.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My <hi>Tap</hi> and <hi>Spiggot</hi> was diſpos'd before,</l>
+               <l>Or that had ſerv'd ſome <hi>Belgick</hi> Commons-Shew'r;</l>
+               <l>A Soveraign Cure for an <hi>Hydroptick</hi> Nation,</l>
+               <l>To ſtop, or elſe let out the Inundation.</l>
+               <l>To drown the <hi>Monſieur</hi> for his late Abuſes,</l>
+               <l>And vent out all their Venom through the Sluces.</l>
+            </lg>
+            <lg>
+               <l>I leave my <hi>Brains</hi> to that <hi>Inceſtious Crew,</hi>
+               </l>
+               <l>The <hi>Lordly Tribe,</hi> who lofty <hi>Treaſons</hi> Brew;</l>
+               <lg>
+                  <l>Thoſe Hot-Brain'd Fiery <hi>Catalines</hi> of State</l>
+                  <l>Who their own, and the Nations Ills Create,</l>
+                  <l>And will, I fear like Me, Repent too Late,</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>To <hi>Bethel</hi> and his Brethren I Reſign</l>
+               <l>The Ax which baffled Fate predeſtin'd Mine;</l>
+               <l>To do that Execution they would bring</l>
+               <l>On <hi>Monarchy,</hi> and an <hi>Indulgent</hi> King.</l>
+            </lg>
+            <lg>
+               <l>To th' <hi>Salamanca</hi> Beagle of the Plot,</l>
+               <l>I leave a Halter as his proper Lot;</l>
+               <l>For his ill Management, while <hi>Tory</hi> ſtriv'd,</l>
+               <l>Of an ill Plot that was ſo well contriv'd.</l>
+            </lg>
+            <lg>
+               <l>And Laſtly to thoſe Friends who were at Strife,</l>
+               <l>Loſing Themſelves to Save a wretched Life;</l>
+               <l>I do Bequeath my Sledg as the juſt Fee</l>
+               <l>Of their Accumulated Perjury.</l>
+            </lg>
+            <lg>
+               <l>Theſe With my Gouts, and Pains, I leave to thoſe</l>
+               <l>Who did my long deſerved Fate oppoſe;</l>
+               <l>Their too officious Kindneſs prov'd a Curſe,</l>
+               <l>To Hang is bad, to dye Unpitty'd's worſe;</l>
+               <l>Since I had rather fall'n a Martyr there,</l>
+               <l>Then Rot, and Moulder in Effigie, here,</l>
+            </lg>
+            <lg>
+               <l>You the Truſtees of this my Dying Will,</l>
+               <l>If you in Villany wou'd proſper ſtill,</l>
+               <l>Be ſure you juſtly every Point fulfil.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> John Smith. 1683.</p>
+            <pb facs="tcp:182873:3"/>
+            <!-- PDF PAGE 18 -->
+         </div>
+      </back>
+   </text>
+</TEI>
